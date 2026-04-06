@@ -123,12 +123,6 @@ Authentication:
 
 ---
 
-## 👨‍💻 Author
-
-Waseem Mohammed
-
-GitHub:
-[https://github.com/wwaseemmohammed/web-fundamentals-todo-assignment](https://github.com/wwaseemmohammed/web-fundamentals-todo-assignment)
 
 ---
 
